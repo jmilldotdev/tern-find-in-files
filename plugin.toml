@@ -1,0 +1,13 @@
+schema = 1
+id = "find-in-files"
+name = "Find in files"
+version = "0.1.0"
+description = "VS Code-style search across the files under a folder, powered by ripgrep."
+host = "host.luau"
+window = "window.luau"
+
+[[blocks]]
+id = "search"
+title = "Find in files"
+icon = "search"
+palette = true
